@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "l10_cl_balance",
+    'name': "Balance de 8 columnas",
 
     'summary': """
         Tutorial about how to inherit and modify already existing QWeb reports.""",
